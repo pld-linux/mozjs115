@@ -6,7 +6,7 @@ Summary:	SpiderMonkey 115 - JavaScript implementation
 Summary(pl.UTF-8):	SpiderMonkey 115 - implementacja języka JavaScript
 Name:		mozjs115
 Version:	115.19.0
-Release:	1
+Release:	2
 License:	MPL v2.0
 Group:		Libraries
 #Source0:	https://download.gnome.org/teams/releng/tarballs-needing-help/mozjs/mozjs-%{version}.tar.xz
